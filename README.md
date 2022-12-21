@@ -38,5 +38,11 @@ terraform apply
 ```
 
 
+**4. To destroy the resources created by Terraform run**
+```bash
+terraform destroy
+
+```
+
 
 
