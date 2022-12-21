@@ -6,11 +6,11 @@
 **
 
 
-2 Load Balancers - Internet Facing and Internal 
-4 Web Servers
-4 Application Servers
-1 RDS with two nodes (MySQL)
-1 S3 Bucket
+1. 2 Load Balancers (Internet Facing and Internal) 
+2. 4 Web Servers
+3. 4 Application Servers
+4. 1 RDS with two nodes (MySQL)
+5. 1 S3 Bucket
 
 ------------
 
@@ -25,6 +25,8 @@ terraform init
 
 
 <img width="493" alt="צילום מסך 2022-12-21 171705" src="https://user-images.githubusercontent.com/73169815/208950016-58ae2f9b-dff6-40cd-90b6-1dfae5733de0.png">
+
+------------
 
 
 **2. Deploying your configuration
