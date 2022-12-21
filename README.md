@@ -20,6 +20,8 @@
 ```bash
 terraform init
 ```
+
+
 <img width="493" alt="צילום מסך 2022-12-21 171705" src="https://user-images.githubusercontent.com/73169815/208950016-58ae2f9b-dff6-40cd-90b6-1dfae5733de0.png">
 
 
